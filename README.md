@@ -65,7 +65,7 @@ php -S 0.0.0.0:8000 -t public
 ```
 ## Proposito
 
-Desenvolver este site foi um desafio empolgante, pois decidi utilizar duas tecnologias novas para mim: React Native e PHP Laravel. Escolhi essas ferramentas para expandir meus conhecimentos e aprimorar minhas habilidades. Embora o projeto fosse relativamente simples, dediquei bastante tempo para compreendê-lo profundamente e dominar essas tecnologias. Concluir este site foi uma experiência de aprendizado inestimável.
+Desenvolver este site esta sendo um desafio empolgante, pois decidi utilizar duas tecnologias novas para mim: React Native e PHP Laravel. Escolhi essas ferramentas para expandir meus conhecimentos e aprimorar minhas habilidades. Embora o projeto fosse relativamente simples, dediquei bastante tempo para compreendê-lo profundamente e dominar essas tecnologias. Concluir este site foi uma experiência de aprendizado inestimável.
 
 
 ## Imagens
